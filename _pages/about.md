@@ -13,16 +13,12 @@ profile:
     <p>D-33615 Bielefeld, Germany</p>
 
 news: false # includes a list of news items
-latest_posts: false
-blog: false
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 ---
 
-Hi! I'm Fabian, and I like Shapley values!
-
-# Research Focus
+## Research Focus
 My current research focuses on eXplainable AI (XAI). Specifically, leveraging fundamental concepts of statistics, such a functional ANOVA, and game-theoretic concepts, such as the Shapley value, to understand and improve machine learning models and tasks. One main application are feature-based explanations, where I'm interested in efficient computations of the Shapley value and its extension to higher-order interactions. By using these concepts, I did research about the theoretical similarities, differences, and possible guarantees of feature-based explanations. Beyond feature-based explanations, I am interested in exploring novel applications of Shapley values and interactions to understand and improve other areas in machine learning, such as LLM prompt compositions or hyperparameter optimization.
 
 I am an active developer of the [`shapiq`](https://shapiq.readthedocs.io/en/latest/#), which extends the popular [`shap`](https://shap.readthedocs.io/en/latest/) package to any-order feature interactions. [`shapiq`](https://shapiq.readthedocs.io/en/latest/#) additionally separates the game-theoretic concepts and computations from the application on feature-based explanations, which allows to apply Shapley values and interactions on other machine learning applications.
