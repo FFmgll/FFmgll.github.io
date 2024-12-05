@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://fabianfumagalli.com/sitemap.xml
+Sitemap: https://FFmgll.github.io/sitemap.xml
