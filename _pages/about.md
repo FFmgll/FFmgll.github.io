@@ -27,4 +27,6 @@ My current research focuses on eXplainable AI (XAI). Specifically, leveraging fu
 
 I am an active developer of the [`shapiq`](https://shapiq.readthedocs.io/en/latest/#), which extends the popular [`shap`](https://shap.readthedocs.io/en/latest/) package to any-order feature interactions. [`shapiq`](https://shapiq.readthedocs.io/en/latest/#) additionally separates the game-theoretic concepts and computations from the application on feature-based explanations, which allows to apply Shapley values and interactions on other machine learning applications.
 
-In an other line of research, I target explanations in rapidly changing dynamic enviornments, such as data streams, and my research is part of the interdisciplinary collaborative research centre [TRR 318 Constructing Explainability](https://trr318.uni-paderborn.de/en/).
+In an other line of research, I target explanations in rapidly changing dynamic enviornments, such as data streams.
+
+I am funded by the interdisciplinary collaborative research centre [TRR 318 Constructing Explainability](https://trr318.uni-paderborn.de/en/).
