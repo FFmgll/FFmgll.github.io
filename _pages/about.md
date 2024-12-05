@@ -9,17 +9,23 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p> Center for Cognitive Interaction Technology
+(CITEC)r</p>
+    <p>Inspiration 1, D-33615</p>
+    <p>Bielefeld, Germany 12345</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I am Fabian Fumagalli and PhD student in Machine Learning group at Bielefeld University.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+# Research Focus
+My current research focuses on eXplainable AI (XAI). Specifically, leveraging fundamental concepts of statistics, such a functional ANOVA, and game-theoretic concepts, such as the Shapley value. One main application are feature-based explanations, where my research focused on efficient computations of the Shapley value and its extension to higher-order interactions, Shapley interacitons. I am further interested in the computational challenges of these mathematical concepts, and the theoretical similarities, differences, and possible guarantees of feature-based explanations. Beyond feature-based explanations, I am interested in exploring novel applications of Shapley values and interactions to understand improve areas in machine learning, such as LLM promopt compisition or hyperparameter optimization.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am an active developer of the [`shapiq`](https://shapiq.readthedocs.io/en/latest/#), which extends the popular `shap`package with any-order feature interactions. `shapiq` additionally separates the game-theoretic concepts and computations from the application on feature-based explanations, which allows to apply Shapley values and interactions on other machine learning applications, finding optimal LLM prompt composition or understanding hyperparameter optimization.
+
+In previous work, I focused also on efficient computation of explanations in rapidly changing dynamic enviornments, such as data streams.
+
+I am part of the interdisciplinary collaborative research centre [TRR 318 Constructing Explainability](https://trr318.uni-paderborn.de/en/)
