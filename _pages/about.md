@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student at <a href='https://hammer-lab.techfak.uni-bielefeld.de/'> HammerLab </a> at Bielefeld University. Shapley Enthusiast and <a href='https://shapiq.readthedocs.io/en/latest/#'>`shapiq`</a) Developer.
+subtitle: PhD Student at <a href='https://hammer-lab.techfak.uni-bielefeld.de/'> HammerLab </a> at Bielefeld University. Shapley Enthusiast and <a href='https://shapiq.readthedocs.io/en/latest/#'>shapiq</a) Developer.
 
 profile:
   align: right
