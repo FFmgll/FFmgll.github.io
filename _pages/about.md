@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Center for Cognitive Interaction Technology (CITEC) </p>
-    <p>Inspiration 1, D-33615</p>
-    <p>Bielefeld, Germany 12345</p>
+    <p>CITEC </p>
+    <p>Inspiration 1, D-33615 </p>
+    <p>Bielefeld, Germany</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
