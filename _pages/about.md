@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [HammerLab](https://hammer-lab.techfak.uni-bielefeld.de/) at Bielefeld University. Shapley Enthusiast. [`shapiq`](https://shapiq.readthedocs.io/en/latest/#) Developer.
+subtitle: PhD Student at [HammerLab](https://hammer-lab.techfak.uni-bielefeld.de/) at Bielefeld University. Shapley Enthusiast. [`shapiq`](https://shapiq.readthedocs.io/en/latest/#) Developer.
 
 profile:
   align: right
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi! I am Fabian Fumagalli, PhD Student in the Machine Learning group of Prof. Barbara Hammer ([HammerLab](https://hammer-lab.techfak.uni-bielefeld.de/)) at Bielefeld University.
+Hi! I am Fabian Fumagalli, and I like Shapley values.
 
 # Research Focus
 My current research focuses on eXplainable AI (XAI). Specifically, leveraging fundamental concepts of statistics, such a functional ANOVA, and game-theoretic concepts, such as the Shapley value. One main application are feature-based explanations, where my research focused on efficient computations of the Shapley value and its extension to higher-order interactions, Shapley interacitons. I am further interested in the computational challenges of these mathematical concepts, and the theoretical similarities, differences, and possible guarantees of feature-based explanations. Beyond feature-based explanations, I am interested in exploring novel applications of Shapley values and interactions to understand improve areas in machine learning, such as LLM promopt compisition or hyperparameter optimization.
