@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>CITEC, Inspiration 1 </p>
-    <p>D-33615 Bielefeld</p>
+    <p>D-33615 Bielefeld, Germany</p>
 
 news: false # includes a list of news items
 latest_posts: false
