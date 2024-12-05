@@ -135,7 +135,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Research Blog # blog_name will be displayed in your blog page
-blog_description: Introductory Articles for my Research
+blog_description: Introductory Posts about my Research
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -249,6 +249,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/cv.md
 keep_files:
   - CNAME
   - .nojekyll
