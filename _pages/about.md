@@ -13,8 +13,11 @@ profile:
     <p>D-33615 Bielefeld, Germany</p>
 
 news: false # includes a list of news items
+latest_posts: false
+blog: false
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
+
 ---
 
 Hi! I'm Fabian, and I like Shapley values!
