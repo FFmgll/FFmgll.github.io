@@ -172,7 +172,6 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   - name: Mindful Modeler
     posts:
-      -
       - url: https://open.substack.com/pub/mindfulmodeler/p/what-are-shapley-interactions-and?utm_campaign=post&utm_medium=web
       - published_date: 2024-12-03
 
