@@ -173,7 +173,6 @@ external_sources:
   - name: Mindful Modeler
     posts:
       - url: https://open.substack.com/pub/mindfulmodeler/p/what-are-shapley-interactions-and
-        #published_date: 2024-12-03
         title: What are Shapley Interactions?
 
 
