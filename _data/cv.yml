@@ -10,31 +10,24 @@
 - title: Education
   type: time_table
   contents:
-    - title: Mathematics Msc.
+    - title: Mathematics MSc.
       institution: Technical University of Berlin, Berlin, Germany
       year: 2018
       description:
         - Stochastics and Financial Mathematics
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Mathematics BSc.
+      institution: Free University Berlin, Berlin, Germany
+      year: 2015
       description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: SAS and Data Science Consultant
+      institution: Collaborations Betters the World (CBTW, former PTC, mayato)
+      year: 2018 - 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - International clients mostly in banking and insurance
     - title: Visiting Professor
       institution: California Institute of Technology, Pasadena, California, US
       year: 1933
