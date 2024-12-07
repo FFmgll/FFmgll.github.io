@@ -57,7 +57,7 @@ module ExternalPosts
         path, { :site => site, :collection => site.collections['posts'] }
       )
       doc.data['external_source'] = source_name
-      doc.data['title'] = source.title #content[:title]
+      doc.data['title'] = content[:title]
       doc.data['feed_content'] = content[:content]
       doc.data['description'] = content[:summary]
       doc.data['date'] = content[:published]
@@ -70,6 +70,7 @@ module ExternalPosts
         puts "...fetching #{post['url']}"
         content = fetch_content_from_url(post['url'])
         content[:published] = parse_published_date(post['published_date'])
+        content[:title] = post['title'] # added manually
         create_document(site, src['name'], post['url'], content)
       end
     end
