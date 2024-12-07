@@ -57,7 +57,7 @@ module ExternalPosts
         path, { :site => site, :collection => site.collections['posts'] }
       )
       doc.data['external_source'] = source_name
-      doc.data['title'] = content[:title]
+      doc.data['title'] = source.title #content[:title]
       doc.data['feed_content'] = content[:content]
       doc.data['description'] = content[:summary]
       doc.data['date'] = content[:published]
