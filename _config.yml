@@ -135,7 +135,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Research Blog # blog_name will be displayed in your blog page
-blog_description: here you can find some high-level introductions to my research
+blog_description: high-level introductions to my research
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -171,11 +171,11 @@ disqus_shortname: al-folio # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
   - name: Mindful Modeler
-    title: "What are Shaply Interactions?"
     posts:
+      - title: What are Shapley Interactions?
       - url: https://open.substack.com/pub/mindfulmodeler/p/what-are-shapley-interactions-and
         published_date: 2024-12-03
-        title: "What are Shaply Interactions?"
+
 
 
 
