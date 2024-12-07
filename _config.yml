@@ -172,9 +172,9 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   - name: Mindful Modeler
     posts:
-      - title: What are Shapley Interactions?
       - url: https://open.substack.com/pub/mindfulmodeler/p/what-are-shapley-interactions-and
-        published_date: 2024-12-03
+      - published_date: 2024-12-03
+      - title: What are Shapley Interactions?
 
 
 
