@@ -6,13 +6,13 @@
     "email": "ffumagalli@techfak.uni-bielefeld.de",
     "phone": "",
     "url": "https://fabianfumagalli.com",
-    "summary": "Passionate about Understanding and Improving Machine Learning",
+    "summary": "Passionate about Understanding Machine Learning",
     "location": {
       "address": "",
       "postalCode": "33615",
       "city": "Bielefeld",
       "countryCode": "DE",
-      "region": "Northrhine-Westphalia"
+      "region": "North Rhine-Westphalia"
     },
     "profiles": [
       {
@@ -24,13 +24,13 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Bielefeld University",
+      "position": "PhD Candidate",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "2021-11-01",
+      "endDate": "",
+      "summary": "Researching on Explainable AI and Game Theory",
+      "highlights": [""]
     }
   ],
   "volunteer": [
