@@ -200,7 +200,7 @@
     {
       "name": "KernelSHAP-IQ: Weighted Least Square Optimization for Shapley Interactions",
       "publisher": "ICML 2024",
-      "releaseDate": "2024-05-02",
+      "releaseDate": "2024-07-16",
       "url": "https://openreview.net/forum?id=d5jXW2H4gg",
       "summary": "In this paper we present an extension of KernelSHAP to Shapley Interactions and establish a weighted least-squares representation of the Shapley interaction index."
     },
@@ -214,7 +214,7 @@
     {
       "name": " SHAP-IQ: Unified Approximation of any-order Shapley Interactions",
       "publisher": "NeurIPS 2023",
-      "releaseDate": "2023-12-01",
+      "releaseDate": "2023-10-30",
       "url": "https://neurips.cc/virtual/2023/poster/72134",
       "summary": "In this paper we present a unified approximation method for Shapley interactions."
     },
