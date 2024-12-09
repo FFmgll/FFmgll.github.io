@@ -31,18 +31,63 @@
       "endDate": "",
       "summary": "Researching on Explainable AI and Game Theory",
       "highlights": []
+    },
+    {
+      "name": "Positive Thinking Company (former mayato)",
+      "position": "SAS & Data Science Consultant",
+      "url": "https://positivethinking.tech/",
+      "startDate": "2028-10-01",
+      "endDate": "2021-10-15",
+      "summary": "Consulting International Clients in Banking and Insurance",
+      "highlights": []
+    },
+    {
+      "name": "mayato",
+      "position": "SAS & Data Science Consultant",
+      "url": "https://www.linkedin.com/company/mayato/?originalSubdomain=de",
+      "startDate": "2017-10-01",
+      "endDate": "2018-09-30",
+      "summary": "Consulting Clients in Berlin Area",
+      "highlights": []
+    },
+    {
+      "name": "Munich Re",
+      "position": "Data Scientist & Machine Learning Engineer",
+      "url": "https://www.munichre.com/de.html",
+      "startDate": "2017-01-01",
+      "endDate": "2017-06-30",
+      "summary": "Machine Learning Solutions for Health Insurance",
+      "highlights": []
+    },
+    {
+      "name": "Freie Universität Berlin",
+      "position": "Teaching Assistant",
+      "url": "https://www.fu-berlin.de/en/index.html",
+      "startDate": "2014-10-01",
+      "endDate": "2016-09-30",
+      "summary": "Tutorial Lectures and Exam Grading",
+      "highlights": []
+    },
+    {
+      "name": "ISQ Berlin Brandenburg e.V.",
+      "position": "R & Web Developer",
+      "url": "https://www.isq-bb.de/wordpress/",
+      "startDate": "2014-08-01",
+      "endDate": "2014-09-30",
+      "summary": "",
+      "highlights": []
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "TuSLi Berlin (Table Tennis)",
+      "location": "Berlin Germany",
+      "position": "Voluntary Trainer & Coordinator",
+      "url": "https://tt.tusli.de/",
+      "startDate": "2011-11-01",
+      "endDate": "2016-08-31",
+      "summary": "Leading Regular Training Sessions, Coaching during Competitions & Organization",
+      "highlights": ["Acquired DOSB Licence C"]
     }
   ],
   "education": [
