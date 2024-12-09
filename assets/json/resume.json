@@ -30,7 +30,7 @@
       "startDate": "2021-11-01",
       "endDate": "",
       "summary": "Researching on Explainable AI and Game Theory",
-      "highlights": [""]
+      "highlights": []
     }
   ],
   "volunteer": [
@@ -47,15 +47,48 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Bielefeld University, Bielefeld, Germany",
+      "location": "Bielefeld, Germany",
+      "url": "https://www.uni-bielefeld.de/",
+      "area": "Machine Learning (Computer Science)",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2021-11-01",
+      "endDate": "",
+      "score": "",
+      "courses": ["Explainable AI"]
+    },
+    {
+      "institution": "Technische Universität Berlin, Berlin, Germany",
+      "location": "Berlin, Germany",
+      "url": "https://www.tu.berlin/en/",
+      "area": "Mathematics",
+      "studyType": "MSc.",
+      "startDate": "2015-10-01",
+      "endDate": "2018-10-01",
+      "score": "",
+      "courses": ["Stochastics & Financial Mathematics","Mathematical Deep Learning"]
+    },
+    {
+      "institution": "Freie Universität Berlin, Berlin, Germany",
+      "location": "Berlin, Germany",
+      "url": "https://www.fu-berlin.de/en/index.html",
+      "area": "Mathematics",
+      "studyType": "BSc.",
+      "startDate": "2021-10-01",
+      "endDate": "2015-11-01",
+      "score": "",
+      "courses": ["Stochastics & Financial Mathematics","Mathematical Deep Learning"]
+    },
+    {
+      "institution": "Norges teknisk-naturvitenskapelige universitet (NTNU), Norway",
+      "location": "Trondheim, Norway",
+      "url": "https://www.ntnu.edu/",
+      "area": "Statistics",
+      "studyType": "Erasmus+",
+      "startDate": "2016-08-01",
+      "endDate": "2016-12-01",
+      "score": "",
+      "courses": []
     }
   ],
   "awards": [
