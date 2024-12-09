@@ -93,11 +93,25 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Best Paper Award",
+      "date": "2023-07-27",
+      "awarder": "World Conference on eXplainable Articial Intelligence (xAI 2023)",
+      "url": "https://xaiworldconference.com/2023/awards/",
+      "summary": "iPDP: On Partial Dependence Plots in Dynamic Modeling Scenarios"
+    },
+    {
+      "title": "Distinguished Reviewer",
+      "date": "2024-07-01",
+      "awarder": "Internation Conference on Machine Learning (ICML 2024)",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Distinguished Reviewer",
+      "date": "2024-10-01",
+      "awarder": "Neural Information Processing Systems (NeurIPS 2024)",
+      "url": "",
+      "summary": ""
     }
   ],
   "certificates": [
