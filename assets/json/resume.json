@@ -217,8 +217,28 @@
       "releaseDate": "2023-12-01",
       "url": "https://neurips.cc/virtual/2023/poster/72134",
       "summary": "In this paper we present a unified approximation method for Shapley interactions."
+    },
+    {
+      "name": "Incremental permutation feature importance (iPFI): towards online explanations on data streams",
+      "publisher": "Machine Learning Journal",
+      "releaseDate": "2023-09-20",
+      "url": "https://link.springer.com/article/10.1007/s10994-023-06385-y",
+      "summary": "In this paper we present an efficient computation of PFI on evolving data streams and establish important theoretical results."
+    },
+    {
+      "name": "iSAGE: An Incremental Version of SAGE for Online Explanation on Data Streams",
+      "publisher": "ECML PKDD 2023",
+      "releaseDate": "2023-06-14",
+      "url": "https://www.springerprofessional.de/isage-an-incremental-version-of-sage-for-online-explanation-on-d/26051900",
+      "summary": "In this paper we present an efficient computation of SAGE on evolving data streams."
+    },
+    {
+      "name": "iPDP: On Partial Dependence Plots in Dynamic Modeling Scenarios",
+      "publisher": "World Conference on eXplainable Artificial Intelligence (xAI 2023)",
+      "releaseDate": "2023-10-30",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-031-44064-9_11",
+      "summary": "In this paper we present an approach to compute PDPs efficiently in dynamically evolving environments, such as online learning on data streams."
     }
-
   ],
   "skills": [
     {
