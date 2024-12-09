@@ -69,17 +69,6 @@
       "courses": ["Stochastics & Financial Mathematics","Mathematical Deep Learning"]
     },
     {
-      "institution": "Freie Universität Berlin, Berlin, Germany",
-      "location": "Berlin, Germany",
-      "url": "https://www.fu-berlin.de/en/index.html",
-      "area": "Mathematics",
-      "studyType": "BSc.",
-      "startDate": "2021-10-01",
-      "endDate": "2015-11-01",
-      "score": "",
-      "courses": ["Stochastics & Financial Mathematics","Mathematical Deep Learning"]
-    },
-    {
       "institution": "Norges teknisk-naturvitenskapelige universitet (NTNU), Norway",
       "location": "Trondheim, Norway",
       "url": "https://www.ntnu.edu/",
@@ -89,6 +78,17 @@
       "endDate": "2016-12-01",
       "score": "",
       "courses": []
+    },
+    {
+      "institution": "Freie Universität Berlin, Berlin, Germany",
+      "location": "Berlin, Germany",
+      "url": "https://www.fu-berlin.de/en/index.html",
+      "area": "Mathematics",
+      "studyType": "BSc.",
+      "startDate": "2012-10-01",
+      "endDate": "2015-11-01",
+      "score": "",
+      "courses": ["Stochastics & Financial Mathematics","Mathematical Deep Learning"]
     }
   ],
   "awards": [
@@ -101,15 +101,15 @@
     },
     {
       "title": "Distinguished Reviewer",
-      "date": "2024-07-01",
-      "awarder": "Internation Conference on Machine Learning (ICML 2024)",
+      "date": "2024-10-01",
+      "awarder": "Neural Information Processing Systems (NeurIPS 2024)",
       "url": "",
       "summary": ""
     },
     {
       "title": "Distinguished Reviewer",
-      "date": "2024-10-01",
-      "awarder": "Neural Information Processing Systems (NeurIPS 2024)",
+      "date": "2024-07-01",
+      "awarder": "Internation Conference on Machine Learning (ICML 2024)",
       "url": "",
       "summary": ""
     }
