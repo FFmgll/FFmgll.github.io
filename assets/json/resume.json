@@ -242,9 +242,9 @@
   ],
   "skills": [
     {
-      "name": "Programming",
+      "name": "Python",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-laptop",
       "keywords": [
         "Python",
         "torch",
@@ -252,9 +252,16 @@
         "numpy",
         "pandas",
         "scipy",
-        "matplotlib",
+        "matplotlib"
+      ]
+    },
+    {
+      "name": "Other",
+      "level": "Master",
+      "icon": "fa-solid fa-laptop",
+      "keywords": [
         "SQL",
-        "SAS",
+        "SAS Base",
         "JavaScript"
       ]
     }
@@ -278,18 +285,23 @@
   ],
   "interests": [
     {
-      "name": "Guitar & Music",
-      "icon": "fa-solid fa-tag",
+      "name": "Music & Guitar",
+      "icon": "fa-solid fa-music",
       "keywords": []
     },
     {
       "name": "Hiking & Skiing",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-snowflake-o",
       "keywords": []
     },
     {
-      "name": "Sustainable Finance",
+      "name": "Finance",
       "icon": "fa-solid fa-credit-card",
+      "keywords": []
+    },
+    {
+      "name": "Sustainability",
+      "icon": "fa-solid fa-thermometer-full",
       "keywords": []
     }
   ],
