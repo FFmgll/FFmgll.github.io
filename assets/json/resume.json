@@ -172,21 +172,21 @@
       "date": "2020-01-09",
       "issuer": "SAS Institute",
       "url": "https://www.credly.com/badges/05f44fb2-46ff-4ab3-a272-2385e40a022f",
-      "icon": "fa-tag"
+      "icon": "fa-icon fa-tag"
     },
     {
       "name": "SAS Certified Base Programmer",
       "date": "2018-10-30",
       "issuer": "SAS Institute",
       "url": "https://www.credly.com/badges/deff4a3e-0eb9-481d-968f-43a090bf3e59",
-      "icon": "fa-tag"
+      "icon": "fa-icon fa-tag"
     },
     {
       "name": "SAS Certified Visual Business Analyst",
       "date": "2018-03-28",
       "issuer": "SAS Institute",
       "url": "https://www.credly.com/badges/db829e5f-c6da-452b-9209-deb62c1a5d87",
-      "icon": "fa-tag"
+      "icon": "fa-icon fa-tag"
     }
   ],
   "publications": [
