@@ -278,27 +278,31 @@
   ],
   "interests": [
     {
-      "name": "Private",
+      "name": "Guitar & Music",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Guitar",
-        "Chess",
-        "Music"
-      ]
+      "keywords": []
+    },
+    {
+      "name": "Hiking & Skiing",
+      "icon": "fa-solid fa-tag",
+      "keywords": []
+    },
+    {
+      "name": "Sustainable Finance",
+      "icon": "fa-solid fa-tag",
+      "keywords": []
     }
   ],
   "references": [
     {
-      "name": "Professor Barbara Hammer",
+      "name": "Prof. Barbara Hammer",
       "icon": "fa-solid fa-tag",
-      "url": "https://www.techfak.uni-bielefeld.de/~bhammer/  ",
-      "reference": "Bielefeld University - https://www.techfak.uni-bielefeld.de/~bhammer/"
+      "reference": "Bielefeld University"
     },
     {
-      "name": "Professor Eyke Hüllermeier (LMU Munich)",
+      "name": "Prof. Eyke Hüllermeier",
       "icon": "fa-solid fa-tag",
-      "url": "https://www.kiml.ifi.lmu.de/people/professors/huellermeier/index.html",
-      "reference": "LMU Munich - https://www.kiml.ifi.lmu.de/people/professors/huellermeier/index.html"
+      "reference": "LMU Munich"
     }
   ],
   "projects": [
