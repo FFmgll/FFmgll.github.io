@@ -172,21 +172,21 @@
       "date": "2020-01-09",
       "issuer": "SAS Institute",
       "url": "https://www.credly.com/badges/05f44fb2-46ff-4ab3-a272-2385e40a022f",
-      "icon": "fa-icon fa-tag"
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "SAS Certified Base Programmer",
       "date": "2018-10-30",
       "issuer": "SAS Institute",
       "url": "https://www.credly.com/badges/deff4a3e-0eb9-481d-968f-43a090bf3e59",
-      "icon": "fa-icon fa-tag"
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "SAS Certified Visual Business Analyst",
       "date": "2018-03-28",
       "issuer": "SAS Institute",
       "url": "https://www.credly.com/badges/db829e5f-c6da-452b-9209-deb62c1a5d87",
-      "icon": "fa-icon fa-tag"
+      "icon": "fa-solid fa-tag"
     }
   ],
   "publications": [
@@ -214,16 +214,20 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "torch",
+        "scikit-learn",
+        "numpy",
+        "pandas",
+        "scipy",
+        "matplotlib",
+        "SQL",
+        "SAS",
+        "JavaScript"
       ]
     }
   ],
@@ -237,42 +241,44 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "Italian",
+      "fluency": "Elementary",
+      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Private",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Guitar",
+        "Chess",
+        "Music"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Professor Barbara Hammer (Bielefeld University)",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": ""
     },
     {
-      "name": "Professor John Doe",
+      "name": "Professor Eyke Hüllermeier (LMU Munich)",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": ""
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "shapiq",
+      "summary": "Extension of shap package providing Shapley interactions for machine learning.",
+      "highlights": ["Feature Interactions", "Shapley Interactions", "Game Theory for Machine Learning"],
+      "startDate": "2023-11-01",
+      "endDate": "",
+      "url": "https://shapiq.readthedocs.io/en/latest/"
     }
   ]
 }
