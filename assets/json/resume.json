@@ -100,6 +100,13 @@
       "summary": "iPDP: On Partial Dependence Plots in Dynamic Modeling Scenarios"
     },
     {
+      "title": "Best Paper in Journal Track",
+      "date": "2023-09-01",
+      "awarder": "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD 2023)",
+      "url": "https://2023.ecmlpkdd.org/program/paper-session-overview/program-20-september-2023/",
+      "summary": "Incremental Permutation Feature Importance (iPFI): Towards Online Explanations on Data Streams"
+    },
+    {
       "title": "Distinguished Reviewer",
       "date": "2024-10-01",
       "awarder": "Neural Information Processing Systems (NeurIPS 2024)",
