@@ -269,20 +269,22 @@
   ],
   "references": [
     {
-      "name": "Professor Barbara Hammer (Bielefeld University)",
-      "icon": "fa-solid fa-laptop",
-      "reference": ""
+      "name": "Professor Barbara Hammer",
+      "icon": "fa-solid fa-tag",
+      "url": "https://www.techfak.uni-bielefeld.de/~bhammer/  ",
+      "reference": "Bielefeld University - https://www.techfak.uni-bielefeld.de/~bhammer/"
     },
     {
       "name": "Professor Eyke Hüllermeier (LMU Munich)",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": ""
+      "icon": "fa-solid fa-tag",
+      "url": "https://www.kiml.ifi.lmu.de/people/professors/huellermeier/index.html",
+      "reference": "LMU Munich - https://www.kiml.ifi.lmu.de/people/professors/huellermeier/index.html"
     }
   ],
   "projects": [
     {
       "name": "shapiq",
-      "summary": "Extension of shap package providing Shapley interactions for machine learning.",
+      "summary": "Shapley interactions for Machine Learning & Extension of shap",
       "highlights": ["Feature Interactions", "Shapley Interactions", "Game Theory for Machine Learning"],
       "startDate": "2023-11-01",
       "endDate": "",
