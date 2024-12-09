@@ -116,53 +116,32 @@
     {
       "title": "Distinguished Reviewer",
       "date": "2024-07-01",
-      "awarder": "Internation Conference on Machine Learning (ICML 2024)",
+      "awarder": "International Conference on Machine Learning (ICML 2024)",
       "url": "",
       "summary": ""
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "SAS Viya Machine Learning Specialist",
+      "date": "2020-01-09",
+      "issuer": "SAS Institute",
+      "url": "https://www.credly.com/badges/05f44fb2-46ff-4ab3-a272-2385e40a022f",
+      "icon": "fa-tag"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "SAS Certified Base Programmer",
+      "date": "2018-10-30",
+      "issuer": "SAS Institute",
+      "url": "https://www.credly.com/badges/deff4a3e-0eb9-481d-968f-43a090bf3e59",
+      "icon": "fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "SAS Certified Visual Business Analyst",
+      "date": "2018-03-28",
+      "issuer": "SAS Institute",
+      "url": "https://www.credly.com/badges/db829e5f-c6da-452b-9209-deb62c1a5d87",
+      "icon": "fa-tag"
     }
   ],
   "publications": [
