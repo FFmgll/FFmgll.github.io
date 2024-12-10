@@ -92,16 +92,26 @@
   ],
   "academia": [
     {
-      "name": "Python",
-      "level": "Master",
-      "icon": "fa-solid fa-laptop",
+      "name": "Workshop Organization",
+      "level": "",
+      "icon": "fa-solid fa-comments",
       "keywords": [
-        "torch",
-        "scikit-learn",
-        "numpy",
-        "pandas",
-        "scipy",
-        "matplotlib"
+        "DynXAI: Explainable Artificial Intelligence from Static to Dynamic",
+        "TempXAI: Explainable AI for Time Series and Data Streams Tutorial-Workshop"
+      ]
+    },
+    {
+      "name": "Reviewer",
+      "level": "",
+      "icon": "fa-solid fa-magnifying-glass",
+      "keywords": [
+        "ICLR 2025",
+        "AISTSTS 2025",
+        "AAAI 2025",
+        "ICML 2024",
+        "NeurIPS 2024",
+        "ESANN 2024",
+        "Machine Learning Journal"
       ]
     }
   ],
