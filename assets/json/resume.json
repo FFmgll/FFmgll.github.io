@@ -90,6 +90,21 @@
       "highlights": ["Acquired DOSB Licence C"]
     }
   ],
+  "academic service": [
+    {
+      "name": "Python",
+      "level": "Master",
+      "icon": "fa-solid fa-laptop",
+      "keywords": [
+        "torch",
+        "scikit-learn",
+        "numpy",
+        "pandas",
+        "scipy",
+        "matplotlib"
+      ]
+    }
+  ],
   "education": [
     {
       "institution": "Bielefeld University, Bielefeld, Germany",
