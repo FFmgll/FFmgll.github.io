@@ -96,7 +96,7 @@
       "level": "",
       "icon": "fa-solid fa-comments",
       "keywords": [
-        "DynXAI: Explainable Artificial Intelligence from Static to Dynamic",
+        "<b>DynXAI:</b> Explainable Artificial Intelligence from Static to Dynamic",
         "TempXAI: Explainable AI for Time Series and Data Streams Tutorial-Workshop"
       ]
     },
@@ -106,7 +106,7 @@
       "icon": "fa-solid fa-magnifying-glass",
       "keywords": [
         "ICLR 2025",
-        "AISTSTS 2025",
+        "AISTATS 2025",
         "AAAI 2025",
         "ICML 2024",
         "NeurIPS 2024",
