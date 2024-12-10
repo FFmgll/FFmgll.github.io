@@ -36,7 +36,7 @@
       "name": "Positive Thinking Company (former mayato)",
       "position": "SAS & Data Science Consultant",
       "url": "https://positivethinking.tech/",
-      "startDate": "2028-10-01",
+      "startDate": "2018-10-01",
       "endDate": "2021-10-15",
       "summary": "Consulting International Clients in Banking and Insurance",
       "highlights": []
@@ -246,7 +246,6 @@
       "level": "Master",
       "icon": "fa-solid fa-laptop",
       "keywords": [
-        "Python",
         "torch",
         "scikit-learn",
         "numpy",
