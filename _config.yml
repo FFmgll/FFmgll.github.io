@@ -175,6 +175,9 @@ external_sources:
       - url: https://open.substack.com/pub/mindfulmodeler/p/what-are-shapley-interactions-and
         title: What Are Shapley Interactions, and Why Should You Care?
         published_date: 2024-12-03
+      - url: https://aktuell.uni-bielefeld.de/2024/12/09/neue-wege-in-der-erklaerbaren-ki-mit-shapley-interactions/
+        title: Neue Wege in der Erklärbaren KI mit Shapley Interactions
+        published_date: 2024-12-09
 
 
 
