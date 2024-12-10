@@ -252,6 +252,8 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/projects.md
+  - _pages/news.md
   #- _pages/cv.md
 keep_files:
   - CNAME
