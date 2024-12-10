@@ -330,8 +330,8 @@ display_categories: [] # ["external-services"] these categories will be displaye
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Fumagalli]
+  first_name: [Fabian]
 
   style: apa
   locale: en
