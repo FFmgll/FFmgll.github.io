@@ -135,7 +135,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: blog # blog_name will be displayed in your blog page
-blog_description: here I collect posts and news about my research
+blog_description: here I collect posts about my research
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -175,12 +175,12 @@ external_sources:
       - url: https://open.substack.com/pub/mindfulmodeler/p/what-are-shapley-interactions-and
         title: What Are Shapley Interactions, and Why Should You Care?
         published_date: 2024-12-03
-  - name: News TRR318 "Constructing Explainability"
+  - name: TRR318 "Constructing Explainability"
     posts:
       - url: https://trr318.uni-paderborn.de/en/news-item/new-paths-in-explainable-ai-with-shapley-interactions
         title: New Paths in Explainable AI with Shapley Interactions
         published_date: 2024-12-06
-  - name: News TRR318 "Constructing Explainability"
+  - name: TRR318 "Constructing Explainability"
     posts:
       - url: https://trr318.uni-paderborn.de/en/news-item/best-paper-award-fuer-trr-forschende-auf-der-xai-2023
         title: Best Paper Award for TRR Researchers at xAI 2023
