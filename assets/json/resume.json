@@ -96,8 +96,8 @@
       "level": "",
       "icon": "fa-solid fa-comments",
       "keywords": [
-        "<b>ECML PKDD 2023</b> \n <p>DynXAI Explainable Artificial Intelligence from Static to Dynamic</p> <a href=' href='https://sites.google.com/view/dynxai-ecmlpkdd-2023'>Website</a>",
-        "<b>ECML PKDD 2024</b> \n <p href='https://sites.google.com/view/tempxai-workshop/home'>TempXAI: Explainable AI for Time Series and Data Streams Tutorial-Workshop</p>"
+        "<b>ECML PKDD 2023</b> \n <p> <a href='https://sites.google.com/view/dynxai-ecmlpkdd-2023'>DynXAI:</a> Explainable Artificial Intelligence from Static to Dynamic</p> <a href=' href='https://sites.google.com/view/dynxai-ecmlpkdd-2023'>Website</a>",
+        "<b>ECML PKDD 2024</b> \n <p> <a href='https://sites.google.com/view/tempxai-workshop/home'>TempXAI:</a> Explainable AI for Time Series and Data Streams Tutorial-Workshop</p>"
       ]
     },
     {
