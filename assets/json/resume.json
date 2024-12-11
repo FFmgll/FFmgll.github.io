@@ -92,7 +92,7 @@
   ],
   "academia": [
     {
-      "name": "<b>Workshop Organization</b>",
+      "name": "Workshop Organization",
       "level": "",
       "icon": "fa-solid fa-comments",
       "keywords": [
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "<b>Reviewer</b>",
+      "name": "Reviewer",
       "level": "",
       "icon": "fa-solid fa-magnifying-glass",
       "keywords": [
