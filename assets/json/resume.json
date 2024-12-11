@@ -109,7 +109,7 @@
         "AISTATS 2025",
         "AAAI 2025",
         "<a href='https://icml.cc/Conferences/2024/Reviewers'>ICML 2024</a>",
-        "NeurIPS 2024",
+        "<a href='https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewers'>NeurIPS 2024</a>",
         "ESANN 2024",
         "Machine Learning Journal"
       ]
@@ -171,21 +171,21 @@
     },
     {
       "title": "Best Paper in Journal Track",
-      "date": "2023-09-01",
+      "date": "2023-09-20",
       "awarder": "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD 2023)",
       "url": "https://2023.ecmlpkdd.org/program/paper-session-overview/program-20-september-2023/",
       "summary": "Incremental Permutation Feature Importance (iPFI): Towards Online Explanations on Data Streams"
     },
     {
       "title": "Top Reviewer",
-      "date": "2024-10-01",
+      "date": "2024-12-10",
       "awarder": "Neural Information Processing Systems (NeurIPS 2024)",
       "url": "https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewers",
       "summary": ""
     },
     {
       "title": "Top Reviewer",
-      "date": "2024-07-01",
+      "date": "2024-07-23",
       "awarder": "International Conference on Machine Learning (ICML 2024)",
       "url": "https://icml.cc/Conferences/2024/Reviewers",
       "summary": ""
