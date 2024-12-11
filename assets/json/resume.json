@@ -108,7 +108,7 @@
         "ICLR 2025",
         "AISTATS 2025",
         "AAAI 2025",
-        "ICML 2024",
+        "<a href='https://icml.cc/Conferences/2024/Reviewers'>ICML 2024</a>",
         "NeurIPS 2024",
         "ESANN 2024",
         "Machine Learning Journal"
@@ -187,7 +187,7 @@
       "title": "Top Reviewer",
       "date": "2024-07-01",
       "awarder": "International Conference on Machine Learning (ICML 2024)",
-      "url": "",
+      "url": "https://icml.cc/Conferences/2024/Reviewers",
       "summary": ""
     }
   ],
