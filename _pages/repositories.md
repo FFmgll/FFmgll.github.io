@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /opensource/
-title: open source
-description: A collection of open source projects I am actively developing.
+title:
+description:
 nav: true
 nav_order: 4
 ---
