@@ -1,12 +1,11 @@
 ---
 layout: page
 permalink: /opensource/
-title:
-description:
+title: open source
+description: A collection of open source projects I am actively developing.
 nav: true
 nav_order: 4
 ---
-
 
 {% if site.repo_trophies.enabled %}
 {% for user in site.data.repositories.github_users %}
@@ -21,7 +20,6 @@ nav_order: 4
 ---
 
 {% endfor %}
-{% endif %}
 {% endif %}
 
 {% if site.data.repositories.github_repos %}
