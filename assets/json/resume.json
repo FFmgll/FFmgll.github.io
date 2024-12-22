@@ -113,6 +113,14 @@
         "ESANN 2024",
         "Machine Learning Journal"
       ]
+    },
+    {
+      "name": "Invited Participant",
+      "level": "",
+      "icon": "fa-solid fa-users",
+      "keywords": [
+        "<a href='https://www.dagstuhl.de/23122'>Dagstuhl Seminar 23122 - Deep Continual Learning</a>"
+      ]
     }
   ],
   "education": [
