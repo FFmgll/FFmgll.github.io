@@ -2,7 +2,7 @@
   "basics": {
     "name": "Fabian Fumagalli",
     "label": "PhD Candidate",
-    "image": "",
+    "image": "https://fabianfumagalli.com/assets/img/prof_pic.jpg?a31f3f41a9a77f51f4b801901bc4ddf9",
     "email": "ffumagalli@techfak.uni-bielefeld.de",
     "phone": "",
     "url": "https://fabianfumagalli.com",
@@ -166,7 +166,7 @@
       "startDate": "2012-10-01",
       "endDate": "2015-11-01",
       "score": "",
-      "courses": ["Stochastics & Financial Mathematics","Mathematical Deep Learning"]
+      "courses": [""]
     }
   ],
   "awards": [
