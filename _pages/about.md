@@ -23,7 +23,7 @@ Beyond feature-based explanations, I am exploring novel [applications of the Sha
 
 I actively contribute to the development of [`shapiq`](https://shapiq.readthedocs.io/en/latest/#), which extends the popular [`shap`](https://shap.readthedocs.io/en/latest/) package to support any-order feature interactions. [`shapiq`](https://shapiq.readthedocs.io/en/latest/#) decouples the computation of game-theoretic concepts from feature-based explanations, enabling the application of Shapley values and interactions across various machine learning tasks.
 
-AAnother area of my research focuses on explanations in dynamic environments, particularly in cases with distribution shifts and rapidly changing models, such as evolving data streams. In this context, I co-organized the [TempXAI: Explainable AI for Time Series and Data Streams Tutorial-Workshop](https://sites.google.com/view/tempxai-workshop/home) at ECML PKDD 2024 and the [DynXAI: Explainable Artificial Intelligence
+Another area of my research focuses on explanations in dynamic environments, particularly in cases with distribution shifts and rapidly changing models, such as evolving data streams. In this context, I co-organized the [TempXAI: Explainable AI for Time Series and Data Streams Tutorial-Workshop](https://sites.google.com/view/tempxai-workshop/home) at ECML PKDD 2024 and the [DynXAI: Explainable Artificial Intelligence
 from Static to Dynamic Workshop](https://sites.google.com/view/dynxai-ecmlpkdd-2023) at ECML PKDD 2023.
 
 I am funded by the interdisciplinary collaborative research centre [TRR 318 Constructing Explainability](https://trr318.uni-paderborn.de/en/).

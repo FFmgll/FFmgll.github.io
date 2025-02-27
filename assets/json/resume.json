@@ -113,6 +113,14 @@
         "ESANN 2024",
         "Machine Learning Journal"
       ]
+    },
+    {
+      "name": "Invited Events",
+      "level": "",
+      "icon": "fa-solid fa-users",
+      "keywords": [
+        "<a href='https://www.dagstuhl.de/23122'>Dagstuhl Seminar 23122 - Deep Continual Learning</a>"
+      ]
     }
   ],
   "education": [
@@ -215,6 +223,13 @@
     }
   ],
   "publications": [
+    {
+      "name": "Unifying Feature-Based Explanations with Functional ANOVA and Cooperative Game Theory",
+      "publisher": "AISTATS 2025",
+      "releaseDate": "2024-12-22",
+      "url": "https://arxiv.org/abs/2412.17152",
+      "summary": "This paper presents a unifying framework for feature-based explanations."
+    },
     {
       "name": "Adaptive Prompting: Ad-hoc Prompt Composition for Social Bias Detection",
       "publisher": "NAACL 2025",
