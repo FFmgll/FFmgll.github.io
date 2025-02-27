@@ -216,6 +216,20 @@
   ],
   "publications": [
     {
+      "name": "Adaptive Prompting: Ad-hoc Prompt Composition for Social Bias Detection",
+      "publisher": "NAACL 2025",
+      "releaseDate": "2025-02-10",
+      "url": "https://arxiv.org/abs/2502.06487",
+      "summary": "This paper introduces adaptive prompting of LLMs for social bias detection and uses Shapley values and interactions to determine the impact of prompting components."
+    },
+    {
+      "name": "Exact Computation of Any-Order Shapley Interactions for Graph Neural Networks",
+      "publisher": "ICLR 2025",
+      "releaseDate": "2025-01-22",
+      "url": "https://openreview.net/forum?id=9tKC0YM8sX",
+      "summary": "This paper presents an efficient method to compute Shapley interactions for graph neural networks."
+    },
+    {
       "name": "shapiq: Shapley Interactions for Machine Learning",
       "publisher": "NeurIPS 2024",
       "releaseDate": "2024-12-01",
