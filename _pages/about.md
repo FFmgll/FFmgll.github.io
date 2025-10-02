@@ -25,4 +25,4 @@ I actively contribute to the development of [`shapiq`](https://shapiq.readthedoc
 Another area of my research focuses on explanations in dynamic environments, particularly in cases with distribution shifts and rapidly changing models, such as evolving data streams. In this context, I co-organized the [TempXAI: Explainable AI for Time Series and Data Streams Tutorial-Workshop](https://sites.google.com/view/tempxai-workshop/home) at ECML PKDD 2024 and the [DynXAI: Explainable Artificial Intelligence
 from Static to Dynamic Workshop](https://sites.google.com/view/dynxai-ecmlpkdd-2023) at ECML PKDD 2023.
 
-I did my PhD within collaborative research centre [TRR 318 Constructing Explainability](https://trr318.uni-paderborn.de/en/).
+I was part of the collaborative research centre [TRR 318 Constructing Explainability](https://trr318.uni-paderborn.de/en/).
