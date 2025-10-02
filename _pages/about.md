@@ -2,14 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student in the <a href='https://hammer-lab.techfak.uni-bielefeld.de/'> Machine Learning Group </a> at Bielefeld University. <a href='https://shapiq.readthedocs.io/en/latest/#'>shapiq</a> Developer.
+subtitle: Currently employed as an interim Professor for Statistical Learning and Data Science at LMU (winter term 2025/2026). <a href='https://shapiq.readthedocs.io/en/latest/#'>shapiq</a> Developer.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Inspiration 1, D-33615 Bielefeld, Germany </p>
+  more_info:
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
