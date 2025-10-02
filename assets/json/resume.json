@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Fabian Fumagalli",
-    "label": "PhD Candidate",
+    "label": "Researcher in Explainable AI & Game Theory",
     "image": "https://fabianfumagalli.com/assets/img/prof_pic.jpg?a31f3f41a9a77f51f4b801901bc4ddf9",
     "email": "ffumagalli@techfak.uni-bielefeld.de",
     "phone": "",
@@ -9,11 +9,10 @@
     "summary": "",
     "location": {
       "address": "",
-      "postalCode": "33615",
-      "city": "Bielefeld",
+      "postalCode": "",
+      "city": "",
       "countryCode": "DE",
-      "region": "North Rhine-Westphalia"
-    },
+      "region": ""
     "profiles": [
       {
         "network": "LinkedIn",
@@ -34,7 +33,7 @@
     },
     {
       "name": "Bielefeld University",
-      "position": "Researcher",
+      "position": "Postdoctoral Researcher",
       "url": "https://hammer-lab.techfak.uni-bielefeld.de/people/316634936/",
       "startDate": "2025-08-29",
       "endDate": "2025-09-30",
