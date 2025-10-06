@@ -123,13 +123,17 @@
       "level": "",
       "icon": "fa-solid fa-magnifying-glass",
       "keywords": [
+        "<a href=''>AISTATS 2026</a>",
+        "<a href=''>ICLR 2026</a>",
+        "<a href=''>NeurIPS 2024</a>",
         "<a href='https://iclr.cc/Conferences/2025/Reviewers'>ICLR 2025</a>",
         "<a href='https://virtual.aistats.org/Conferences/2025/Reviewers'>AISTATS 2025</a>",
         "AAAI 2025",
         "<a href='https://icml.cc/Conferences/2024/Reviewers'>ICML 2024</a>",
         "<a href='https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewers'>NeurIPS 2024</a>",
         "ESANN 2024",
-        "Machine Learning Journal"
+        "Machine Learning Journal",
+        "Data Mining and Knowledge Discovery Journal"
       ]
     },
     {
