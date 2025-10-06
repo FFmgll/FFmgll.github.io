@@ -6,7 +6,7 @@ subtitle: Interim Professor for Statistical Learning and Data Science at LMU Mun
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: img.jpg
   image_circular: false # crops the image to make it circular
   more_info:
 news: false # includes a list of news items
