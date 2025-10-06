@@ -13,13 +13,14 @@
       "city": "",
       "countryCode": "DE",
       "region": "",
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "fabian-fumagalli",
-        "url": "https://www.linkedin.com/in/fabian-fumagalli"
-      }
-    ]
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "fabian-fumagalli",
+          "url": "https://www.linkedin.com/in/fabian-fumagalli"
+        }
+      ]
+    }
   },
   "work": [
     {
