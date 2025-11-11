@@ -3,7 +3,7 @@
     "name": "Fabian Fumagalli",
     "label": "Researcher in Explainable AI & Game Theory",
     "image": "https://fabianfumagalli.com/assets/img/img.jpg",
-    "email": "f.fumagalli@lmu.de",
+    "email": "",
     "phone": "",
     "url": "https://fabianfumagalli.com",
     "summary": "",
@@ -218,6 +218,13 @@
       "date": "2024-07-23",
       "awarder": "International Conference on Machine Learning (ICML 2024)",
       "url": "https://x.com/icmlconf/status/1815647580577059312",
+      "summary": ""
+    },
+    {
+      "title": "Top Reviewer",
+      "date": "2025-10",
+      "awarder": "Neural Information Processing Systems (NeurIPS 2025)",
+      "url": "https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewer",
       "summary": ""
     }
   ],
