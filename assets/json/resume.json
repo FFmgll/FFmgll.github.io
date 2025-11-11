@@ -125,6 +125,8 @@
       "keywords": [
         "<a href=''>AISTATS 2026</a>",
         "<a href=''>ICLR 2026</a>",
+        "<a href='https://neurips.cc/Conferences/2025/ProgramCommittee'>NeurIPS 2025</a>",
+        "<a href='https://icml.cc/Conferences/2025/ProgramCommittee'>ICML 2025</a>",
         "<a href=''>NeurIPS 2024</a>",
         "<a href='https://iclr.cc/Conferences/2025/Reviewers'>ICLR 2025</a>",
         "<a href='https://virtual.aistats.org/Conferences/2025/Reviewers'>AISTATS 2025</a>",
@@ -194,35 +196,35 @@
   "awards": [
     {
       "title": "Best Paper Award",
-      "date": "2023-07-27",
+      "date": "2023",
       "awarder": "World Conference on eXplainable Artificial Intelligence (xAI 2023)",
       "url": "https://xaiworldconference.com/2023/awards/",
       "summary": "iPDP: On Partial Dependence Plots in Dynamic Modeling Scenarios"
     },
     {
       "title": "Best Paper in Journal Track",
-      "date": "2023-09-20",
+      "date": "2023",
       "awarder": "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD 2023)",
       "url": "https://2023.ecmlpkdd.org/program/paper-session-overview/program-20-september-2023/",
       "summary": "Incremental Permutation Feature Importance (iPFI): Towards Online Explanations on Data Streams"
     },
         {
       "title": "Top Reviewer",
-      "date": "2025-10",
+      "date": "2025",
       "awarder": "Neural Information Processing Systems (NeurIPS 2025)",
       "url": "https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewer",
       "summary": ""
     },
     {
       "title": "Top Reviewer",
-      "date": "2024-12-10",
+      "date": "2024",
       "awarder": "Neural Information Processing Systems (NeurIPS 2024)",
       "url": "https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewers",
       "summary": ""
     },
     {
       "title": "Best Reviewer",
-      "date": "2024-07-23",
+      "date": "2024",
       "awarder": "International Conference on Machine Learning (ICML 2024)",
       "url": "https://x.com/icmlconf/status/1815647580577059312",
       "summary": ""
@@ -231,21 +233,21 @@
   "certificates": [
     {
       "name": "SAS Viya Machine Learning Specialist",
-      "date": "2020-01-09",
+      "date": "2020",
       "issuer": "SAS Institute",
       "url": "https://www.credly.com/badges/05f44fb2-46ff-4ab3-a272-2385e40a022f",
       "icon": "fa-solid fa-tag"
     },
     {
       "name": "SAS Certified Base Programmer",
-      "date": "2018-10-30",
+      "date": "2018",
       "issuer": "SAS Institute",
       "url": "https://www.credly.com/badges/deff4a3e-0eb9-481d-968f-43a090bf3e59",
       "icon": "fa-solid fa-tag"
     },
     {
       "name": "SAS Certified Visual Business Analyst",
-      "date": "2018-03-28",
+      "date": "2018",
       "issuer": "SAS Institute",
       "url": "https://www.credly.com/badges/db829e5f-c6da-452b-9209-deb62c1a5d87",
       "icon": "fa-solid fa-tag"
