@@ -206,6 +206,13 @@
       "url": "https://2023.ecmlpkdd.org/program/paper-session-overview/program-20-september-2023/",
       "summary": "Incremental Permutation Feature Importance (iPFI): Towards Online Explanations on Data Streams"
     },
+        {
+      "title": "Top Reviewer",
+      "date": "2025-10",
+      "awarder": "Neural Information Processing Systems (NeurIPS 2025)",
+      "url": "https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewer",
+      "summary": ""
+    },
     {
       "title": "Top Reviewer",
       "date": "2024-12-10",
@@ -218,13 +225,6 @@
       "date": "2024-07-23",
       "awarder": "International Conference on Machine Learning (ICML 2024)",
       "url": "https://x.com/icmlconf/status/1815647580577059312",
-      "summary": ""
-    },
-    {
-      "title": "Top Reviewer",
-      "date": "2025-10",
-      "awarder": "Neural Information Processing Systems (NeurIPS 2025)",
-      "url": "https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewer",
       "summary": ""
     }
   ],
@@ -249,85 +249,6 @@
       "issuer": "SAS Institute",
       "url": "https://www.credly.com/badges/db829e5f-c6da-452b-9209-deb62c1a5d87",
       "icon": "fa-solid fa-tag"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Unifying Feature-Based Explanations with Functional ANOVA and Cooperative Game Theory",
-      "publisher": "AISTATS 2025",
-      "releaseDate": "2024-12-22",
-      "url": "https://arxiv.org/abs/2412.17152",
-      "summary": "This paper presents a unifying framework for feature-based explanations."
-    },
-    {
-      "name": "Adaptive Prompting: Ad-hoc Prompt Composition for Social Bias Detection",
-      "publisher": "NAACL 2025",
-      "releaseDate": "2025-02-10",
-      "url": "https://arxiv.org/abs/2502.06487",
-      "summary": "This paper introduces adaptive prompting of LLMs for social bias detection and uses Shapley values and interactions to determine the impact of prompting components."
-    },
-    {
-      "name": "Exact Computation of Any-Order Shapley Interactions for Graph Neural Networks",
-      "publisher": "ICLR 2025",
-      "releaseDate": "2025-01-22",
-      "url": "https://openreview.net/forum?id=9tKC0YM8sX",
-      "summary": "This paper presents an efficient method to compute Shapley interactions for graph neural networks."
-    },
-    {
-      "name": "shapiq: Shapley Interactions for Machine Learning",
-      "publisher": "NeurIPS 2024",
-      "releaseDate": "2024-12-01",
-      "url": "https://arxiv.org/abs/2410.01649",
-      "summary": "This package paper presents Shapley interactions for 11 machine learning domains, including an extension of the popular shap package with feature interactions."
-    },
-    {
-      "name": "KernelSHAP-IQ: Weighted Least Square Optimization for Shapley Interactions",
-      "publisher": "ICML 2024",
-      "releaseDate": "2024-07-16",
-      "url": "https://openreview.net/forum?id=d5jXW2H4gg",
-      "summary": "We present KernelSHAP for Shapley Interactions and a weighted least-squares representation of the Shapley interaction index."
-    },
-    {
-      "name": "Beyond TreeSHAP:Efficient Computation of Any-Order Shapley Interactions for Tree Ensembles",
-      "publisher": "AAAI 2024",
-      "releaseDate": "2024-03-24",
-      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/29352",
-      "summary": "We present TreeSHAP for Shapley interactions that works for any tree-based model."
-    },
-    {
-      "name": "SVARM-IQ: Efficient Approximation of Any-order Shapley Interactions through Stratification",
-      "publisher": "AISTATS 2024",
-      "releaseDate": "2024-01-24",
-      "url": "https://proceedings.mlr.press/v238/kolpaczki24a.html",
-      "summary": "We present SVARM for Shapley interactions by using stratification."
-    },
-    {
-      "name": " SHAP-IQ: Unified Approximation of any-order Shapley Interactions",
-      "publisher": "NeurIPS 2023",
-      "releaseDate": "2023-10-30",
-      "url": "https://neurips.cc/virtual/2023/poster/72134",
-      "summary": "We present a unified approximation method for Shapley interactions."
-    },
-    {
-      "name": "Incremental permutation feature importance (iPFI): towards online explanations on data streams",
-      "publisher": "Machine Learning Journal",
-      "releaseDate": "2023-09-20",
-      "url": "https://link.springer.com/article/10.1007/s10994-023-06385-y",
-      "summary": "We present an efficient computation of PFI on evolving data streams with important theoretical guarantees."
-    },
-    {
-      "name": "iSAGE: An Incremental Version of SAGE for Online Explanation on Data Streams",
-      "publisher": "ECML PKDD 2023",
-      "releaseDate": "2023-06-14",
-      "url": "https://www.springerprofessional.de/isage-an-incremental-version-of-sage-for-online-explanation-on-d/26051900",
-      "summary": "We present an efficient computation of SAGE on evolving data streams."
-    },
-    {
-      "name": "iPDP: On Partial Dependence Plots in Dynamic Modeling Scenarios",
-      "publisher": "World Conference on eXplainable Artificial Intelligence (xAI 2023)",
-      "releaseDate": "2023-10-30",
-      "url": "https://link.springer.com/chapter/10.1007/978-3-031-44064-9_11",
-      "summary": "We present computation of PDPs efficiently in dynamically evolving environments, such as online learning on data streams."
     }
   ],
   "skills": [
