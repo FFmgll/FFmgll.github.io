@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Interim Professor for Statistical Learning and Data Science at LMU Munich (winter term 2025/2026). Active developer of <a href='https://shapiq.readthedocs.io/en/latest/#'>shapiq</a>.
+subtitle: Interim Professor for Statistical Learning and Data Science at LMU Munich (winter term 2025/2026). Developer of <a href='https://shapiq.readthedocs.io/en/latest/#'>shapiq</a>.
 
 profile:
   align: right
